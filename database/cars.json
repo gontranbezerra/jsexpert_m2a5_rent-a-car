@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2a9bd96a-5057-46e9-a01c-cec9300ad2f0",
+    "name": "Escalade",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4265bc48-712c-4a11-82bf-c504e3ccc1df",
+    "name": "Malibu",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  }
+]
